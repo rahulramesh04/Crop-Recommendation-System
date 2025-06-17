@@ -1,4 +1,3 @@
-# Crop-Recommendation-System
 # Crop Recommendation System
 
 This project uses a **Machine Learning model** to recommend the most suitable crop to grow based on environmental conditions like soil nutrients, temperature, humidity, pH, and rainfall.
